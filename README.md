@@ -55,16 +55,6 @@ netflix-data-cleaning/
 типы данных приведены к корректным. Дубликатов строк не обнаружено.
 
 
-## **Как запустить**
-
-```bash
-git clone https://github.com/pashk3r/netflix-dataset-cleaning.git
-cd netflix-dataset-cleaning
-pip install -r requirements.txt
-jupyter notebook notebooks/data_cleaning.ipynb
-```
-
-
 ## **Автор**
 
 **[pashk3r](https://github.com/pashk3r)**
