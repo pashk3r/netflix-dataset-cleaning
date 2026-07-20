@@ -97,4 +97,4 @@ netflix-data-cleaning/
 
 ## Автор
 
-**pashk3r**
+**[pashk3r](https://github.com/pashk3r)**
